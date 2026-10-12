@@ -59,15 +59,17 @@ Menampilkan antarmuka utama aplikasi PeopleData beserta data anggota tentara yan
 
 Pengguna mengisi ID, nama, tahun lahir, pangkat, email, dan status dinas. Setelah tombol Add ditekan, data baru dimasukkan ke dalam daftar dan ditampilkan pada tabel.
 
-**Screenshot:**
 
 ![Proses menambahkan data anggota](Dokumentasi/create.png)
+
+
+![Proses menambahkan data anggota](Dokumentasi/create2.png)
+
 
 ### C. Read — Menampilkan Data
 
 Program menampilkan daftar anggota tentara dalam tabel. Data yang ditampilkan mencakup seluruh atribut yang dimiliki setiap anggota.
 
-**Screenshot:**
 
 ![Tampilan tabel data anggota](Dokumentasi/read.png)
 
@@ -75,19 +77,23 @@ Program menampilkan daftar anggota tentara dalam tabel. Data yang ditampilkan me
 
 Pengguna memilih anggota dari tabel. Data anggota tersebut dimuat ke formulir, kemudian pengguna mengubah atribut yang diperlukan dan menekan tombol Update. Tabel diperbarui sesuai perubahan data.
 
-**Screenshot:**
 
 ![Proses mengubah data anggota](Dokumentasi/update.png)
+
+Ket: Naik Pangkat
+![Proses mengubah data anggota](Dokumentasi/update2.png)
 
 ### E. Delete — Menghapus Data
 
 Pengguna memilih anggota yang ingin dihapus, kemudian menekan tombol Delete. Program menampilkan dialog konfirmasi. Apabila pengguna menyetujui penghapusan, data dihapus dari daftar dan tabel diperbarui.
 
-**Screenshot 1 — Dialog konfirmasi penghapusan:**
+Dialog konfirmasi penghapusan:
 
 ![Konfirmasi penghapusan data](Dokumentasi/delete-konfirmasi.png)
 
-**Screenshot 2 — Data setelah penghapusan:**
+![Konfirmasi penghapusan data](Dokumentasi/delete-konfirmasi2.png)
+
+Data setelah penghapusan:
 
 ![Tampilan setelah data dihapus](Dokumentasi/delete-hasil.png)
 
