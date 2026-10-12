@@ -80,8 +80,9 @@ Pengguna memilih anggota dari tabel. Data anggota tersebut dimuat ke formulir, k
 
 ![Proses mengubah data anggota](Dokumentasi/update.png)
 
-Ket: Naik Pangkat
 ![Proses mengubah data anggota](Dokumentasi/update2.png)
+
+Ket: Andi naik pangkat
 
 ### E. Delete — Menghapus Data
 
