@@ -3,7 +3,7 @@
 
 Saya Nabil Azka Saputra dengan NIM 2507096 mengerjakan TP2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-Desain dan Fungsi Program
+## 1. Desain dan Fungsi Program
 
 ### A. Atribut Data
 
@@ -18,7 +18,17 @@ Setiap anggota tentara memiliki atribut berikut:
 | Email | String | Alamat email anggota |
 | Status Dinas | String | Status keaktifan anggota, yaitu Aktif atau Cuti |
 
-## 3. Penjelasan Alur Program
+### B. Struktur Program
+
+Program terdiri dari beberapa file utama:
+
+- **Person.java** — merepresentasikan objek anggota tentara beserta atribut, constructor, getter, dan setter.
+- **PeopleMenu.java** — mengatur tampilan aplikasi, pengelolaan data anggota, tabel, serta operasi CRUD.
+- **PeopleMenu.form** — mengatur desain antarmuka grafis menggunakan IntelliJ IDEA GUI Designer.
+- **README.md** — berisi deskripsi, penjelasan alur program, dan dokumentasi pengujian.
+
+
+## 2. Penjelasan Alur Program
 
 Saat aplikasi dijalankan, program membuat objek `PeopleMenu` dan menginisialisasi daftar anggota tentara menggunakan `ArrayList`. Data awal dimasukkan melalui method `populateList()`, kemudian ditampilkan pada tabel menggunakan method `setTable()`.
 
@@ -33,7 +43,7 @@ Alur pengelolaan data terdiri dari empat operasi utama:
 
 Tombol Cancel digunakan untuk membersihkan formulir dan mengembalikan kondisi input ke keadaan awal.
 
-## 4. Dokumentasi Program
+## 3. Dokumentasi Program
 
 Dokumentasi berikut menunjukkan pelaksanaan setiap operasi CRUD pada aplikasi PeopleData. Screenshot di bawah bagian ini harus diambil dari hasil program yang benar-benar dijalankan.
 
