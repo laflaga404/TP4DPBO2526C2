@@ -180,27 +180,27 @@ public class PeopleMenu extends JFrame {
     public void populateList() {
         listPerson.add(new Person(
                 "TNI001", "Andi Pratama", 1998,
-                "Prada", "andi@email.com", "Aktif"
+                "Prada", "andi@email.com", "Aktif Dinas"
         ));
 
         listPerson.add(new Person(
                 "TNI002", "Budi Santoso", 1995,
-                "Serda", "budi@email.com", "Aktif"
+                "Serda", "budi@email.com", "Aktif Dinas"
         ));
 
         listPerson.add(new Person(
                 "TNI003", "Cahya Putra", 1990,
-                "Kapten", "cahya@email.com", "Aktif"
+                "Kapten", "cahya@email.com", "Aktif Dinas"
         ));
 
         listPerson.add(new Person(
                 "TNI004", "Dimas Saputra", 1985,
-                "Mayor", "dimas@email.com", "Nonaktif"
+                "Mayor", "dimas@email.com", "Cuti Dinas"
         ));
 
         listPerson.add(new Person(
                 "TNI005", "Eko Wijaya", 1975,
-                "Kolonel", "eko@email.com", "Aktif"
+                "Kolonel", "eko@email.com", "Aktif Dinas"
         ));
     }
 
