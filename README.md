@@ -3,7 +3,7 @@
 
 Saya Nabil Azka Saputra dengan NIM 2507096 mengerjakan TP2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-##Pendahuluan
+## Pendahuluan
 Mungkin yappingan singkat, kenapa aku milih tema ini? karena ga sengaja liat postingan tentang tentara di TL twitter WKWKKW dan yapp jadinya kepikiran buat tema karena kebetulan dibebasin juga
 
 ## 1. Desain dan Fungsi Program
